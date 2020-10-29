@@ -214,3 +214,11 @@ color:#9c9c9c !important;
   -webkit-transform: translate3d(0,0,0);
   transform: translate3d(0,0,0);
 }
+
+.t570__col {
+     float: inherit;
+     margin: 0 auto;
+ }
+.footer-menu>li {
+     margin-right: 10px;
+}
